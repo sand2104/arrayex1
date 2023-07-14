@@ -1,0 +1,8 @@
+C:\data\arrayexlistex1\arrayexlistex1\obj\Debug\arrayexlistex1.csproj.AssemblyReference.cache
+C:\data\arrayexlistex1\arrayexlistex1\obj\Debug\arrayexlistex1.csproj.SuggestedBindingRedirects.cache
+C:\data\arrayexlistex1\arrayexlistex1\obj\Debug\arrayexlistex1.csproj.CoreCompileInputs.cache
+C:\data\arrayexlistex1\arrayexlistex1\bin\Debug\arrayexlistex1.exe.config
+C:\data\arrayexlistex1\arrayexlistex1\bin\Debug\arrayexlistex1.exe
+C:\data\arrayexlistex1\arrayexlistex1\bin\Debug\arrayexlistex1.pdb
+C:\data\arrayexlistex1\arrayexlistex1\obj\Debug\arrayexlistex1.exe
+C:\data\arrayexlistex1\arrayexlistex1\obj\Debug\arrayexlistex1.pdb
